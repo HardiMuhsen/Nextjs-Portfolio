@@ -70,7 +70,7 @@ const Main = () => {
                         <AiOutlineMail />
                 </div>
                 </Link>
-                <Link href='resume.pdf'>
+                <Link href='/assets/resume.pdf'>
                 <div className="rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-110 hover:bg-pink-600 ease-in duration-300">
                 <BsFillPersonLinesFill />
                 </div>
