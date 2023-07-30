@@ -19,7 +19,7 @@ const Home: NextPage = () => {
         <meta name="author" content="Hardi Muhsen" />
         <meta name="keywords" content="portfolio, web design, graphic design, photography" />
         <meta name="robots" content="index, follow" />
-
+        <meta name="google-site-verification" content="rDs_MCz4pcdB5x_g6fX1zh79XhMxn1iW5Z8a0rND_Yo" />
 
         
         <meta property="og:type" content="website" />
